@@ -5,6 +5,7 @@ public class Welcome
 
 	public static void main(String[] args) 
 	{
+		//This is my own work, Zachary Swoveland.
 		// TODO Auto-generated method stub
 		System.out.println("My name is Zachary.");
 		System.out.println("My favorite color is purple.");
