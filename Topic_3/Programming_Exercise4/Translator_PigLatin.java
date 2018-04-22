@@ -1,6 +1,8 @@
 import java.io.*;
 import java.util.Scanner;
+
 //This is my own work, Zachary Swoveland.
+
 public class Translator_PigLatin {
 
 	public static void main(String[] args) {
